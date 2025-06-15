@@ -17,23 +17,23 @@ I've spent countless hours exploring and testing cybersecurity GPTs to bring you
 - [Pro Tips for Better Results](#pro-tips-for-better-results)
 - [Visual Overview](#visual-overview)
 - [Security Categories](#security-categories)
-  - [🔴 Offensive Security & Penetration Testing](#-offensive-security--penetration-testing)
-  - [🔵 Defensive Security & Blue Team](#-defensive-security--blue-team)
-  - [🔍 Threat Intelligence & Research](#-threat-intelligence--research)
-  - [🛡️ Vulnerability Management](#️-vulnerability-management)
-  - [🦠 Malware Analysis & Reverse Engineering](#-malware-analysis--reverse-engineering)
-  - [⚙️ Secure Development & DevSecOps](#️-secure-development--devsecops)
-  - [📋 Compliance & Risk Management](#-compliance--risk-management)
-  - [🔒 Privacy & Data Protection](#-privacy--data-protection)
-  - [📧 Email & Communication Security](#-email--communication-security)
-  - [☁️ Cloud Security](#️-cloud-security)
-  - [🤖 AI & LLM Security](#-ai--llm-security)
-  - [🎓 Education & Training](#-education--training)
-  - [🎯 Threat Modeling](#-threat-modeling)
-  - [🔧 Specialized Security Tools](#-specialized-security-tools)
-  - [📰 News & Information](#-news--information)
-  - [🔬 Analysis & Research Tools](#-analysis--research-tools)
-  - [🎨 General Purpose & Miscellaneous](#-general-purpose--miscellaneous)
+  - [Offensive Security & Penetration Testing](#offensive-security--penetration-testing)
+  - [Defensive Security & Blue Team](#defensive-security--blue-team)
+  - [Threat Intelligence & Research](#threat-intelligence--research)
+  - [Vulnerability Management](#vulnerability-management)
+  - [Malware Analysis & Reverse Engineering](#malware-analysis--reverse-engineering)
+  - [Secure Development & DevSecOps](#secure-development--devsecops)
+  - [Compliance & Risk Management](#compliance--risk-management)
+  - [Privacy & Data Protection](#privacy--data-protection)
+  - [Email & Communication Security](#email--communication-security)
+  - [Cloud Security](#cloud-security)
+  - [AI & LLM Security](#ai--llm-security)
+  - [Education & Training](#education--training)
+  - [Threat Modeling](#threat-modeling)
+  - [Specialized Security Tools](#specialized-security-tools)
+  - [News & Information](#news--information)
+  - [Analysis & Research Tools](#analysis--research-tools)
+  - [General Purpose & Miscellaneous](#general-purpose--miscellaneous)
 - [Important Notes](#important-notes)
 - [License](#license)
 
@@ -88,32 +88,68 @@ I always remind people:
 
 ## 🗺️ Visual Overview
 
-### Cybersecurity GPT Ecosystem
-```mermaid
-graph TD
-    A[Cybersecurity GPT Agents] --> B[Offensive Security]
-    A --> C[Defensive Security]
-    A --> D[Threat Intelligence]
-    A --> E[Vulnerability Mgmt]
-    A --> F[Malware Analysis]
-    A --> G[DevSecOps]
-    A --> H[Compliance]
-    A --> I[Cloud Security]
-    A --> J[AI Security]
-    A --> K[Education]
-    A --> L[Specialized Tools]
-    
-    B --> B1(Pentesting)
-    B --> B2(Web Hacking)
-    B --> B3(Red Teaming)
-    
-    C --> C1(SOC Tools)
-    C --> C2(DFIR)
-    C --> C3(KQL Queries)
-    
-    J --> J1(Adversarial AI)
-    J --> J2(LLM Security)
-    
-    style A fill:#2ecc71,stroke:#27ae60
-    style B fill:#e74c3c,stroke:#c0392b
-    style C fill:#3498db,stroke:#2980b9
+*Diagram will be updated soon - check back next week!*
+
+## 🔒 Security Categories
+
+### 🔴 Offensive Security & Penetration Testing
+*For detailed agent list, see [Categorized GPT Agents List](#)*
+
+### 🔵 Defensive Security & Blue Team
+*For detailed agent list, see [Categorized GPT Agents List](#)*
+
+### 🔍 Threat Intelligence & Research
+*For detailed agent list, see [Categorized GPT Agents List](#)*
+
+### 🛡️ Vulnerability Management
+*For detailed agent list, see [Categorized GPT Agents List](#)*
+
+### 🦠 Malware Analysis & Reverse Engineering
+*For detailed agent list, see [Categorized GPT Agents List](#)*
+
+### ⚙️ Secure Development & DevSecOps
+*For detailed agent list, see [Categorized GPT Agents List](#)*
+
+### 📋 Compliance & Risk Management
+*For detailed agent list, see [Categorized GPT Agents List](#)*
+
+### 🔒 Privacy & Data Protection
+*For detailed agent list, see [Categorized GPT Agents List](#)*
+
+### 📧 Email & Communication Security
+*For detailed agent list, see [Categorized GPT Agents List](#)*
+
+### ☁️ Cloud Security
+*For detailed agent list, see [Categorized GPT Agents List](#)*
+
+### 🤖 AI & LLM Security
+*For detailed agent list, see [Categorized GPT Agents List](#)*
+
+### 🎓 Education & Training
+*For detailed agent list, see [Categorized GPT Agents List](#)*
+
+### 🎯 Threat Modeling
+*For detailed agent list, see [Categorized GPT Agents List](#)*
+
+### 🔧 Specialized Security Tools
+*For detailed agent list, see [Categorized GPT Agents List](#)*
+
+### 📰 News & Information
+*For detailed agent list, see [Categorized GPT Agents List](#)*
+
+### 🔬 Analysis & Research Tools
+*For detailed agent list, see [Categorized GPT Agents List](#)*
+
+### 🎨 General Purpose & Miscellaneous
+*For detailed agent list, see [Categorized GPT Agents List](#)*
+
+## ⚠️ Important Notes
+1. **Always verify** GPT outputs with primary sources
+2. **Never share** sensitive/proprietary information
+3. GPTs may occasionally hallucinate - cross-check critical findings
+4. Links require ChatGPT Plus subscription for access
+5. Report broken links or suggest additions via Issues
+
+## 📜 License
+This project is licensed under the [Creative Commons Zero v1.0 Universal](LICENSE) license.  
+All tools remain property of their respective creators.
