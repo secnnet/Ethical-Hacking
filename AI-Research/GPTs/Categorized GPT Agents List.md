@@ -168,6 +168,3 @@
 - [RFCGPT](https://chat.openai.com/g/g-r6VgWkO0H-rfcgpt): RFC expert service.
 - [RansomChatGPT](https://chat.openai.com/g/g-qVOZwAoqH-ransomchatgpt): Ransomware Negotiation Simulation bot trained from data here.
 
-## Development Tools & Frameworks
-- [Codefuse-chatbot](https://github.com/codefuse-ai/codefuse-chatbot): An intelligent assistant serving the entire software development lifecycle, powered by a Multi-Agent Framework, working with DevOps Toolkits, Code&Doc Repo RAG, etc.
-
