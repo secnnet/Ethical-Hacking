@@ -1,6 +1,6 @@
 # **Ethical Hacking Tools and Scripts**
 
-Welcomes to my **Ethical Hacking Tools and Scripts** repository! This collection is dedicated to developing and sharing custom scripts, programs, and tools designed to assist with penetration testing, vulnerability assessments, and other cybersecurity-related tasks. The primary focus is on learning, exploring, and improving cybersecurity skills in a responsible and ethical manner.
+Welcome to my **Ethical Hacking Tools and Scripts** repository! This collection is dedicated to developing and sharing custom scripts, programs, and tools designed to assist with penetration testing, vulnerability assessments, and other cybersecurity-related tasks. The primary focus is on learning, exploring, and improving cybersecurity skills in a responsible and ethical manner.
 
 ---
 
